@@ -1,0 +1,6 @@
+# Ignore directories
+data/
+logs/
+
+# Ignore files
+Pipfile.lock
