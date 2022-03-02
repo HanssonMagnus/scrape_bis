@@ -4,8 +4,9 @@
 After requests the code is made available for the data collection in my paper
 [Evolution of topics in central bank speech communication](https://arxiv.org/abs/2109.10058).
 
-The original dataset, used in the paper, containing central bank speeches from 1997-01-07 to
-2020-01-10 can be found at [Kaggle](https://www.kaggle.com/magnushansson/central-bank-speeches).
+The original dataset, used in the paper, and a newly scraped dataset (2022-03-02) containing
+central bank speeches can be found at
+[Kaggle](https://www.kaggle.com/magnushansson/central-bank-speeches).
 
 ## The scripts
 `scrape_bis`:
